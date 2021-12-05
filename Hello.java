@@ -1,6 +1,5 @@
-class Hello {
-public static void main(Strings arg[])
-{
-  System.out.println("Hello World");
- }
- }
+class Hello{
+public static void main(Strings arg[]){
+   System.out.println("Hello World");
+  }
+}
